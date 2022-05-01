@@ -3,3 +3,5 @@ CSS glowing and animated border gradients.
 Live: https://glowing-gradients.vercel.app/ <br />
 By Clément <br />
 https://twitter.com/indie_CL
+Step by step thread: <br />
+https://twitter.com/indie_CL/status/1512432436789096456
